@@ -1,0 +1,15 @@
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\bin\Debug\net6.0\First program for console.exe
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\bin\Debug\net6.0\First program for console.deps.json
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\bin\Debug\net6.0\First program for console.runtimeconfig.json
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\bin\Debug\net6.0\First program for console.dll
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\bin\Debug\net6.0\First program for console.pdb
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\First program for console.csproj.AssemblyReference.cache
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\First program for console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\First program for console.AssemblyInfoInputs.cache
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\First program for console.AssemblyInfo.cs
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\First program for console.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\First program for console.dll
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\refint\First program for console.dll
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\First program for console.pdb
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\First program for console.genruntimeconfig.cache
+C:\Users\Remakker\Documents\GitHub\DIO\C-Sharp\First program for console\obj\Debug\net6.0\ref\First program for console.dll

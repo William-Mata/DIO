@@ -1,0 +1,15 @@
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\bin\Debug\net6.0\IntroducaoDotNet.exe
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\bin\Debug\net6.0\IntroducaoDotNet.deps.json
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\bin\Debug\net6.0\IntroducaoDotNet.runtimeconfig.json
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\bin\Debug\net6.0\IntroducaoDotNet.dll
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\bin\Debug\net6.0\IntroducaoDotNet.pdb
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\IntroducaoDotNet.csproj.AssemblyReference.cache
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\IntroducaoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\IntroducaoDotNet.AssemblyInfoInputs.cache
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\IntroducaoDotNet.AssemblyInfo.cs
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\IntroducaoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\IntroducaoDotNet.dll
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\refint\IntroducaoDotNet.dll
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\IntroducaoDotNet.pdb
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\IntroducaoDotNet.genruntimeconfig.cache
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\IntroducaoDotNet\obj\Debug\net6.0\ref\IntroducaoDotNet.dll
