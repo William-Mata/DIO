@@ -1,0 +1,15 @@
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\bin\Debug\net6.0\Projeto-csharp.exe
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\bin\Debug\net6.0\Projeto-csharp.deps.json
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\bin\Debug\net6.0\Projeto-csharp.runtimeconfig.json
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\bin\Debug\net6.0\Projeto-csharp.dll
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\bin\Debug\net6.0\Projeto-csharp.pdb
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\Projeto-csharp.csproj.AssemblyReference.cache
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\Projeto-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\Projeto-csharp.AssemblyInfoInputs.cache
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\Projeto-csharp.AssemblyInfo.cs
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\Projeto-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\Projeto-csharp.dll
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\refint\Projeto-csharp.dll
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\Projeto-csharp.pdb
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\Projeto-csharp.genruntimeconfig.cache
+C:\Users\Remakker\documents\GitHub\DIO\C-Sharp\Projeto-csharp\obj\Debug\net6.0\ref\Projeto-csharp.dll
